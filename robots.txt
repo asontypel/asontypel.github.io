@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://asontypel.github.io/sitemap
+Sitemap: https://asontypel.github.io/app/sitemap
+Sitemap: https://asontypel.github.io/assets/sitemap
+Sitemap: https://asontypel.github.io/css/sitemap
+Sitemap: https://asontypel.github.io/includes/sitemap
+Sitemap: https://asontypel.github.io/item/sitemap
+Sitemap: https://asontypel.github.io/src/sitemap
